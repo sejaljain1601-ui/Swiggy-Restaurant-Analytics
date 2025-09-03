@@ -56,9 +56,30 @@ The project includes one interactive Power BI dashboard with the following key v
 
 ---
 ## Insights & Findings
-*(To be added later)*  
+- **Cuisine Diversity – Kolkata & Mumbai**  
+  Both cities show the widest variety of cuisines.  
+  → Indicates strong customer demand for diverse food options and opportunities for new restaurant categories.
 
----
+- **High-Rated Areas – Bangalore**  
+  Bangalore leads with the highest number of high-rated zones.  
+  → Suggests competitive restaurant quality and tech-driven urban consumers with higher expectations.
+
+- **Top-Rated Restaurants – Mumbai**  
+  Mumbai dominates in highest-rated restaurants overall.  
+  → Reflects premium dining culture, strong service quality, and brand trust.
+
+- **Pricing & Delivery Efficiency – Mumbai**  
+  Mumbai has the highest average pricing but the lowest delivery time.  
+  → Shows a mature food delivery ecosystem where customers accept premium costs in exchange for speed and reliability.
+
+- **Delivery Challenges – Kolkata**  
+  Kolkata records the highest average delivery time.  
+  → May indicate traffic bottlenecks, high restaurant density, or inefficiencies in logistics requiring improvement.
+
+- **Restaurant Volume – Kolkata**  
+  Kolkata has the highest number of restaurants.  
+  → Highlights market potential, but also signals fragmented competition and strain on delivery networks.
+  
 ## Repository Structure
 Swiggy_Data_Analysis/
 
