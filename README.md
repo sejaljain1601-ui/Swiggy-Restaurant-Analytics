@@ -81,13 +81,19 @@ The project includes one interactive Power BI dashboard with the following key v
   → Highlights market potential, but also signals fragmented competition and strain on delivery networks.
   
 ## Repository Structure
-Swiggy_Data_Analysis/
+Swiggy_Restaurant_Analytics/
 
-├── `queries.sql`              # SQL queries for analysis  
+├── `01_create_database_swiggy.sql`  
 
-├── `Swiggy_Dashboard.pbix`    # Power BI dashboard  
+├── `02_create_table_swiggy.sql` 
 
-└── `README.md`                # Project overview, schema, queries, dashboard, insights  
+├── `03_data_cleaning_swiggy.sql`  
+
+├── `04_queries_swiggy.sql`  
+
+├── `Swiggy_Dashboard.pbix`      # Power BI dashboard 
+
+└── `README.md`                  # Project overview, schema, queries, dashboard, insights
 
 ---
 **AUTHOR**  
