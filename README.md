@@ -1,4 +1,4 @@
-# Swiggy SQL + Power BI Project
+# Swiggy-Restaurant-Analytics (SQL + Power BI Project)
 
 ## Project Overview
 This project analyses restaurant-level data from Swiggy, highlighting trends in ratings, cuisine types, and delivery performance.  
